@@ -1,10 +1,1 @@
-# Space invaders
-
-
-## Description:
-
-
-## Authors:
-
-Martin Bulíř
-Petr Novák
+https://github.com/petrnovakk/Bulir_Novak_Space_Invaders.git
