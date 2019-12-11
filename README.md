@@ -1,15 +1,8 @@
-# Project Kratzau
+# Space invaders
 
 
 ## Description:
 
-
-## Design:
-
-
-Game includes:
-* Different puzzle rooms
-* Time limit
 
 ## Authors:
 
